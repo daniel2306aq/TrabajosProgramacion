@@ -17,6 +17,7 @@ public class Ejercicio15 {
         } else {
             System.out.println("Los nombres son iguales");
         }
+        scanner.close();
     }
     
 }

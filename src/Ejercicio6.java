@@ -10,7 +10,7 @@ public class Ejercicio6 {
             System.out.print("El numero es negativo ");
         } else {
             System.out.print("El numero es cero");
-
         }
+        scanner.close();
         }
     }

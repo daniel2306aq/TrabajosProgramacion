@@ -13,5 +13,6 @@ public class Ejercicio7 {
         } else {
             System.out.println("Error: el numero no es positivo o tiene mas de tres cifras");
         }
+        scanner.close();
         }
     }

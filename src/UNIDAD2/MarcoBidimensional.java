@@ -1,3 +1,4 @@
+package UNIDAD2;
 public class MarcoBidimensional {
     public static void main(String[] args) {
         // 1. Crear tabla bidimensional 5x15 llamada 'marco'

@@ -1,3 +1,4 @@
+package UNIDAD1;
 public class Declarar {
     public static void main(String[] args) {
         // Declarar y asignar valores

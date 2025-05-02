@@ -1,3 +1,4 @@
+package UNIDAD2;
 public class Arrays {
     public static void main(String[] args) {
         // Declarar e inicializar una matriz de 3x3

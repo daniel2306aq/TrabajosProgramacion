@@ -1,3 +1,5 @@
+package UNIDAD1;
+
 public class TiendaRopa {
     public static void main(String[] args) {
         // Precios originales

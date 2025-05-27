@@ -1,4 +1,4 @@
--package UNIDAD1;
+package UNIDAD1;
 public class Comparacion {
     public static void main(String[] args) {
 

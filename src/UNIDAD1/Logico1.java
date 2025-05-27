@@ -1,3 +1,5 @@
+package UNIDAD1;
+
 import java.util.Scanner;
 
 public class Logico1 {

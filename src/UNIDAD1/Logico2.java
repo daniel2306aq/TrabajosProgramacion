@@ -1,3 +1,4 @@
+package UNIDAD1;
 public class Logico2 {
     public static void main(String[] args) {
          int a = 10;
